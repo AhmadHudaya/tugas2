@@ -155,3 +155,10 @@ a{
   transform: scale(0.5s);
 }
 
+.footer{
+  display: flex;
+  justify-content: center;
+  font-family: 'Secular One', sans-serif;
+  background-color: #232323;
+  color: white;
+}

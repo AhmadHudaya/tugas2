@@ -81,4 +81,70 @@ a{
 .video iframe{
   height: 220px;
   width: 400px;
+  margin: 20px;
+  padding: 20px;
+}
+.kotak2{
+  margin: 50px;
+}
+
+.fototulisan{
+  color: white;
+  font-family: 'Secular One', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.foto{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.video iframe{
+  height: 220px;
+  width: 400px;
+  margin: 20px;
+  padding: 20px;
+}
+
+footer{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 15px;
+  background-color: #232323;
+}
+
+
+.footer{
+
+  display: flex;
+  justify-content: center;
+  font-family: 'Secular One', sans-serif;
+  color: white;
+}
+
+.photo{
+  margin: 0;
+  padding: 0;
+}
+
+.kotak3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.audio{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.audiotulisan{
+  color: white;
+  font-family: 'Secular One', sans-serif;
+  font-size: 20px;
+  text-align: center;
 }
